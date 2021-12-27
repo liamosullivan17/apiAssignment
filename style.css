@@ -1,0 +1,28 @@
+body {
+    background-color: yellowgreen;
+}
+
+#box {
+    margin: auto;
+    width: 40%;
+    text-align: center;
+    border: 15px solid rgb(2, 2, 2);
+    padding: 50px;
+    background-color: khaki; 
+     
+}
+
+#use-me { 
+    margin: auto;
+    width: 40%;
+    text-align: center;   
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    padding: 0px 50px 600px 580px;
+    width: 25%;
+}
